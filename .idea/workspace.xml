@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment=".gitignore changes">
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/BTWnummer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Invoer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Temperatuur.java" afterDir="false" />
+    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="hoofdstuk4">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Bankrekeningnummer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/OmrekeningSeconden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Snoepautomaat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/StudentScores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPFhfdst02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Invoer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Invoer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="HelloWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.vdab.hello.HelloWord" />
-      <module name="JPFhfdst02" />
+      <module name="JavaNotities" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="be.vdab.hello.*" />
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669159422406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hoofdstuk4">
+      <created>1669223412156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669223412156</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EersteCommit" />
     <MESSAGE value=".gitignore changes" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore changes" />
+    <MESSAGE value="hoofdstuk4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk4" />
   </component>
 </project>

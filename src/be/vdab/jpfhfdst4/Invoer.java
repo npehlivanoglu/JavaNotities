@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Invoer {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int getal = scanner.nextInt();
+        var scanner = new Scanner(System.in);
+        var getal = scanner.nextInt();
         scanner.skip("\n");
-        String tekst = scanner.nextLine();
+        var tekst = scanner.nextLine();
         System.out.println(getal);
         System.out.println(tekst);
     }
