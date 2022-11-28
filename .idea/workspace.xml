@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="hoofdstuk4">
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Bankrekeningnummer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/OmrekeningSeconden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Snoepautomaat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/StudentScores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="hoofdstuk4 met oefeningen">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/BankBediende.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Getal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/GetalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Rekening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Spaarrekening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Zichtrekening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/UitlegConstructur/Instructeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/UitlegConstructur/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/UitlegConstructur/Persoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk5/ArrayVanVijfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk5/NieuwEnOudSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/ArrayVanVijfIntegersMetItaraties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/RandomGenerator2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JPFhfdst02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Invoer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst4/Invoer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +46,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HuawkizNT8hwhtghniDiMA9wMZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="HelloWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.vdab.hello.HelloWord" />
@@ -99,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669223412156</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hoofdstuk4 met oefeningen">
+      <created>1669232182488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669232182488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,9 +140,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="EersteCommit" />
     <MESSAGE value=".gitignore changes" />
     <MESSAGE value="hoofdstuk4" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk4" />
+    <MESSAGE value="hoofdstuk4 met oefeningen" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk4 met oefeningen" />
   </component>
 </project>
