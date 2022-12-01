@@ -1,6 +1,8 @@
 package be.vdab.JPFhfdstk09;
 
-public class Vrachtwagen extends Voertuig {
+import be.vdab.JPFhfdstk12.taken.Vervuiler;
+
+public class Vrachtwagen extends Voertuig implements Vervuiler {
     private float maxLading;
 
     public Vrachtwagen(String polishouder, float kostprijs, int pk, float gemVerbruik, String nummerplaat, float maxLading) {
@@ -42,4 +44,18 @@ public class Vrachtwagen extends Voertuig {
     }
 
 
+    @Override
+    public double berekenVervuiling() {
+        return getKyotoScore() * 20;
+    }
+
+    @Override
+    public void geefMilieuData() {
+        System.out.println(getPk()+" "+getKostprijs()+" "+getGemVerbruik());
+    }
+
+    @Override
+    public void geefPrivateData() {
+        System.out.println(getPolishouder()+" "+getNummerplaat());
+    }
 }

@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="hoofdstuk4 met oefeningen">
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/BankBediende.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Getal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/GetalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Rekening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Spaarrekening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/StudentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Zichtrekening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/UitlegConstructur/Instructeur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/UitlegConstructur/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/UitlegConstructur/Persoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk5/ArrayVanVijfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk5/NieuwEnOudSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/ArrayVanVijfIntegersMetItaraties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/RandomGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdstk6/RandomGenerator2.java" afterDir="false" />
+    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="11/28/2022">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk11/Klinkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Afschrijving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/EmailControle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Kopieermachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Kost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/KostProgramma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Kostprogramma2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Rekenmachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Vrachtwagen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Werknemer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Milieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Privaat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Stookketel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Vervuiler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,14 +50,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="HelloWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.vdab.hello.HelloWord" />
@@ -125,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669232182488</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11/28/2022">
+      <created>1669641063163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669641063163</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +149,22 @@
     <MESSAGE value=".gitignore changes" />
     <MESSAGE value="hoofdstuk4" />
     <MESSAGE value="hoofdstuk4 met oefeningen" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk4 met oefeningen" />
+    <MESSAGE value="11/28/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/28/2022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

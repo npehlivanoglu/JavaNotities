@@ -1,6 +1,9 @@
 package be.vdab.JPFhfdstk09;
 
-public abstract class  Voertuig {
+import be.vdab.JPFhfdstk12.taken.Milieu;
+import be.vdab.JPFhfdstk12.taken.Privaat;
+
+public abstract class  Voertuig implements Privaat, Milieu {
     private String polishouder;
     private float kostprijs;
     private int pk;

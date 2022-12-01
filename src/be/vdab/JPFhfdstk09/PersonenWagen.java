@@ -1,6 +1,8 @@
 package be.vdab.JPFhfdstk09;
 
-public class PersonenWagen extends Voertuig {
+import be.vdab.JPFhfdstk12.taken.Vervuiler;
+
+public class PersonenWagen extends Voertuig implements Vervuiler {
     private int aantalDeuren;
     private int aantalPassagiers;
 
@@ -59,4 +61,18 @@ public class PersonenWagen extends Voertuig {
         System.out.println("Aantal passagiers: " + aantalPassagiers);
     }
 
+    @Override
+    public double berekenVervuiling() {
+        return getKyotoScore() * 5;
+    }
+
+    @Override
+    public void geefMilieuData() {
+        System.out.println(getPk()+" "+getKostprijs()+" "+getGemVerbruik());
+    }
+
+    @Override
+    public void geefPrivateData() {
+        System.out.println(getPolishouder()+" "+getNummerplaat());
+    }
 }
