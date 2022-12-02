@@ -16,6 +16,7 @@ public abstract class Rekening {
 
     }
 
+ 
     public final void setRekeningNummer(String reknr) {
         if (reknr != null && !reknr.isEmpty() ) {
             rekeningNummer = reknr;

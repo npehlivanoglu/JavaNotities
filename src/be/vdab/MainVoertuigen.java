@@ -1,18 +1,21 @@
-package be.vdab.JPFhfdstk09;
+package be.vdab;
 
-import be.vdab.JPFhfdstk12.taken.Milieu;
-import be.vdab.JPFhfdstk12.taken.Privaat;
-import be.vdab.JPFhfdstk12.taken.Stookketel;
-import be.vdab.JPFhfdstk12.taken.Vervuiler;
+import be.vdab.util.Milieu;
+import be.vdab.util.Privaat;
+import be.vdab.verwarming.Stookketel;
+import be.vdab.util.Vervuiler;
+import be.vdab.voertuigen.PersonenWagen;
+import be.vdab.voertuigen.Voertuig;
+import be.vdab.voertuigen.Vrachtwagen;
 
-public class TestProgramma {
+public class MainVoertuigen {
     public static void main(String[] args) {
         var vrachtwagen1 = new Vrachtwagen("Nihat Pehlivanoglu",3000,3000,6,"B 203 203",12000);
         System.out.println(vrachtwagen1);
         vrachtwagen1.toon();
         System.out.println(vrachtwagen1.getKyotoScore());
 
-        var wagenen = new Voertuig [4];
+        var wagenen = new Voertuig[4];
 
         wagenen[0] = new Vrachtwagen("Nihat Pehlivanoglu",3000,3000,6,"B 203 203",12000);
         wagenen[1] = new Vrachtwagen("Ahmet Saydam",3200,6000,9,"B 232 423",5000);

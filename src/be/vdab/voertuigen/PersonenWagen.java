@@ -1,6 +1,6 @@
-package be.vdab.JPFhfdstk09;
+package be.vdab.voertuigen;
 
-import be.vdab.JPFhfdstk12.taken.Vervuiler;
+import be.vdab.util.Vervuiler;
 
 public class PersonenWagen extends Voertuig implements Vervuiler {
     private int aantalDeuren;

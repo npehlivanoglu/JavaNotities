@@ -1,7 +1,7 @@
-package be.vdab.JPFhfdstk09;
+package be.vdab.voertuigen;
 
-import be.vdab.JPFhfdstk12.taken.Milieu;
-import be.vdab.JPFhfdstk12.taken.Privaat;
+import be.vdab.util.Milieu;
+import be.vdab.util.Privaat;
 
 public abstract class  Voertuig implements Privaat, Milieu {
     private String polishouder;

@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="11/28/2022">
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk11/Klinkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Afschrijving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/EmailControle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Kopieermachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Kost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/KostProgramma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Kostprogramma2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Rekenmachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Vrachtwagen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/Werknemer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Milieu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Privaat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Stookketel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Vervuiler.java" afterDir="false" />
+    <list default="true" id="69198935-aac7-435f-bd17-7e145dcbaeb2" name="Changes" comment="Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/HoofdProgrammaBoeken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/exceptions/IntroInExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/exceptions/ScaryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/exceptions/TestExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/opleidingen/Cursus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/opleidingen/ZelfsStudieCursus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/util/Voorwerpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Boek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Boekenrek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Leesboek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Woordenboek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/debugging/DebugVoorbeeld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Rekening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk07/Rekening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/PersonenWagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/voertuigen/PersonenWagen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/TestProgramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/MainVoertuigen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Voertuig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/voertuigen/Voertuig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk09/Vrachtwagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/voertuigen/Vrachtwagen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Milieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/util/Milieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Privaat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/util/Privaat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Stookketel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/verwarming/Stookketel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/vdab/JPFhfdstk12/taken/Vervuiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/vdab/util/Vervuiler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -129,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669641063163</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Interfaces">
+      <created>1669924312786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669924312786</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +159,8 @@
     <MESSAGE value="hoofdstuk4" />
     <MESSAGE value="hoofdstuk4 met oefeningen" />
     <MESSAGE value="11/28/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/28/2022" />
+    <MESSAGE value="Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

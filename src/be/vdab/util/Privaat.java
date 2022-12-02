@@ -1,4 +1,4 @@
-package be.vdab.JPFhfdstk12.taken;
+package be.vdab.util;
 
 public interface Privaat {
     void geefPrivateData();
